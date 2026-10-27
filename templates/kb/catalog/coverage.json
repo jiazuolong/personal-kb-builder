@@ -1,0 +1,13 @@
+{
+  "built_at_utc": null,
+  "roots": [],
+  "file_count": 0,
+  "total_bytes": 0,
+  "by_extension": {},
+  "by_year": {},
+  "skipped": [],
+  "limits": [
+    "No scan has been run yet. Run scripts/scan.py to build the manifest.",
+    "File counts are not knowledge counts; a manifest is not evidence."
+  ]
+}

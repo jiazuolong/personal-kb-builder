@@ -1,0 +1,14 @@
+{
+  "built_at_utc": "2026-10-27T00:00:00+00:00",
+  "roots": [],
+  "file_count": 0,
+  "total_bytes": 0,
+  "by_extension": {},
+  "by_year": {},
+  "skipped": [],
+  "limits": [
+    "Demo KB: sources.jsonl is intentionally empty; the manifest is machine-specific.",
+    "Run scripts/scan.py --root ../demo-data --out catalog to build a manifest.",
+    "File counts are not knowledge counts; a manifest is not evidence."
+  ]
+}
