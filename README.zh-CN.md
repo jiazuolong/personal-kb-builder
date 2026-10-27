@@ -1,5 +1,7 @@
 # personal-kb-builder
 
+[![validate](https://github.com/jiazuolong/personal-kb-builder/actions/workflows/validate.yml/badge.svg)](https://github.com/jiazuolong/personal-kb-builder/actions/workflows/validate.yml)
+
 [English](README.md) · [示例](examples/demo-kb) · [SKILL.md](SKILL.md)
 
 一个可移植的 Agent **Skill**：把你自己的资料整理成一个可追溯的 Markdown 个人知识库。

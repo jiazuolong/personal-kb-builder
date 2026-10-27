@@ -1,5 +1,7 @@
 # personal-kb-builder
 
+[![validate](https://github.com/jiazuolong/personal-kb-builder/actions/workflows/validate.yml/badge.svg)](https://github.com/jiazuolong/personal-kb-builder/actions/workflows/validate.yml)
+
 [中文说明](README.zh-CN.md) · [Demo](examples/demo-kb) · [SKILL.md](SKILL.md)
 
 A portable agent **Skill** that turns your own files into a traceable, Markdown-based personal knowledge base.
